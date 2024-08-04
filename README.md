@@ -3,7 +3,7 @@
 I'm Kiruthik, an AI and Machine Learning enthusiast passionate about developing innovative solutions and exploring new technologies. My journey in the field includes a range of projects that reflect my dedication to advancing artificial intelligence and solving real-world problems.
 
 ## 🚀 About Me
-- **Interests:** AI and Machine Learning, Biotechnology, Aerospace 
+<!-- **Interests:** AI and Machine Learning -->
 - **Skills:** Machine Learning Algorithms, Computer Vision, Web Development, Programming Languages
 - **Goal:** To contribute to the AI revolution and drive technological advancements
 
