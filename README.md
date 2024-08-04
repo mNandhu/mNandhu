@@ -15,12 +15,14 @@ I'm Kiruthik, an AI and Machine Learning enthusiast passionate about developing 
 I’ve worked on various projects that showcase my skills and interests:
 - [**ZeroCarbonLLM for Carbon Capture**](https://github.com/mNandhu/ZeroCarbonLLM)
 - [**Student Management Website - using Django**](https://github.com/SrimanRakshan/DSA)
+- **Retinal Imaging and Disease Prediction**
 - **Follow-Me Drone**
 - **Hand-Following Bot**
-- **Retinal Imaging and Disease Prediction**
+
 
 ## 🌟 What I’m Currently Working On
-**Study Tracking App - based on CrewAI**
+- **Study Tracking App - based on CrewAI**
+
 I’m continuously expanding my knowledge and working on new projects in AI and Machine Learning. Stay tuned for more updates!
 
 ## 📫 How to Reach Me
