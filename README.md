@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**mNandhu/mNandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kiruthik, an AI and Machine Learning enthusiast passionate about developing innovative solutions and exploring new technologies. My journey in the field includes a range of projects that reflect my dedication to advancing artificial intelligence and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- **Interests:** AI and Machine Learning, Biotechnology, Aerospace 
+- **Skills:** Machine Learning Algorithms, Computer Vision, Web Development, Programming Languages
+- **Goal:** To contribute to the AI revolution and drive technological advancements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** Python, Java, C, MATLAB, JavaScript
+<!--- **Frameworks:** Scikit-Learn, Django -->
+
+## 📂 Projects
+I’ve worked on various projects that showcase my skills and interests:
+- [**ZeroCarbonLLM for Carbon Capture**](https://github.com/mNandhu/ZeroCarbonLLM)
+- [**Student Management Website - using Django**](https://github.com/SrimanRakshan/DSA)
+- **Follow-Me Drone**
+- **Hand-Following Bot**
+- **Retinal Imaging and Disease Prediction**
+
+## 🌟 What I’m Currently Working On
+**Study Tracking App - based on CrewAI**
+I’m continuously expanding my knowledge and working on new projects in AI and Machine Learning. Stay tuned for more updates!
+
+## 📫 How to Reach Me
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kiruthik-nandhan-murthi-2a19b8201/)).
+
+Thanks for visiting my GitHub profile! Let's collaborate and make an impact with AI! 🚀
