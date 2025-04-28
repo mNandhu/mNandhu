@@ -25,4 +25,4 @@ I’ve worked on various projects that showcase my skills and interests:
 - **Evalify** A Scalable Platform for Exam Proctoring
 
 ## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kiruthik-nandhan-murthi-2a19b8201/)).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kiruthik-nandhan-murthi-2a19b8201/).
