@@ -1,28 +1,41 @@
-# Hi there! 👋
+# Hi there! I'm Kiruthik 👋
 
-I'm Kiruthik, an AI and Machine Learning enthusiast passionate about developing innovative solutions and exploring new technologies. My journey in the field includes a range of projects that reflect my dedication to advancing artificial intelligence and solving real-world problems.
+I'm a student who loves to build, break, and occasionally fix things with AI. My goal? To have fun and see what's possible when you combine code with a little bit of curiosity.
 
-## 🚀 About Me
-<!-- **Interests:** AI and Machine Learning -->
-- **Skills:** Machine Learning Algorithms, Computer Vision, Web Development, Programming Languages
-- **Goal:** To contribute to the AI revolution and drive technological advancements
+## 🚀 What I'm All About
+-   **I enjoy tinkering with:** AI/ML, System Design, and building robust APIs.
+-   **Why I do it:** For the sheer joy of exploring the frontiers of technology!
 
-## 🛠️ Technologies & Tools
-- **Languages:** Python, Java, C, MATLAB, JavaScript
-<!--- **Frameworks:** Scikit-Learn, Django -->
+## 🛠️ My Toolbox
+-   **My trusty sidekick:** Python
+-   **Weapons from a past life:** Java, C, MATLAB, JavaScript
 
-## 📂 Projects
-I’ve worked on various projects that showcase my skills and interests:
-- [**ZeroCarbonLLM for Carbon Capture**](https://github.com/mNandhu/ZeroCarbonLLM)
-- [**Student Management Website - using Django**](https://github.com/SrimanRakshan/DSA)
-- **Study Tracking App - based on CrewAI**
-- **Retinal Imaging and Disease Prediction**
-- **Follow-Me Drone**
-- **Hand-Following Bot**
+## 📂 My Coding Journey
+Here's a look at my projects in reverse chronological order. It's a story that starts with simple scripts and builds up to the complex systems I'm passionate about today.
 
+### ⚔️ On the Cutting Edge
+These are my current obsessions, where I'm pooling all my experience in AI, API handling, and system design.
+-   [**PACE**](https://github.com/mNandhu/PACE): A Context Engineering Engine for Roleplaying LLMs.
+-   [**Hestia**](https://github.com/mNandhu/Hestia): A personal server manager to rule all your self-hosted services from one simple, clean interface.
 
-## 🌟 What I’m Currently Working On
-- **Evalify** A Scalable Platform for Exam Proctoring
+### 🚀 In the Spotlight
+My most recent and polished creations.
+-   [**LLM-on-Wheels**](https://github.com/mNandhu/LLM-on-Wheels): LangGraph-powered LLM bot simulation.
+-   [**Evalify**](https://github.com/evalify/): My work focused on the backend FastAPI App (`DescEval`), the evaluator in this scalable exam proctoring platform.
+-   [**BlockPicker**](https://github.com/mNandhu/BlockPicking): Just picking up blocks, but with a $1000 robotic hand with a camera for eyes.
 
-## 📫 How to Reach Me
+### 🔥 Gaining Momentum
+Projects where I started hitting my stride and exploring more complex ideas.
+-   [**ZeroCarbonLLM**](https://github.com/mNandhu/ZeroCarbonLLM): RAG Powered LLM for Carbon Capture Research.
+-   [**Student Management Website**](https://github.com/SrimanRakshan/DSA)
+-   **StudyTracker - based on CrewAI**
+
+### 🌱 Where It All Began
+My first steps into the world of code. They aren't fancy, but they're the foundation of everything I've learned since!
+-   [**MAL-APIClient**](https://github.com/mNandhu/MAL-APIClient): My second repo ever! This is where I first learned the ropes of handling APIs, a skill I now use in production apps.
+-   **Retinal Imaging and Disease Prediction**
+-   **Follow-Me Drone**
+-   **Hand-Following Bot**
+
+## 📫 Let's Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kiruthik-nandhan-murthi-2a19b8201/).
